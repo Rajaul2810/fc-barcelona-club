@@ -1,0 +1,19 @@
+.single-player{
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px lightgrey;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-top: 3px;
+    height: 300px;
+    width: 250px;
+    float: left;
+ 
+}
+.single-player img{
+    width: 150px;
+    height: 100px;
+    border: 2px solid lightgrey;
+    border-radius: 80%;
+}
